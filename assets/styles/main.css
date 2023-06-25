@@ -164,6 +164,8 @@ p {
     text-align: center;
     width: 100vw;
     margin-bottom: 10px;
+    position: fixed;
+    bottom: 0px;
   }
 
   .attribution a {
